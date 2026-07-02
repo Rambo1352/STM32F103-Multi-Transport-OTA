@@ -1,0 +1,10 @@
+* text=auto
+
+*.c text
+*.h text
+*.py text
+*.md text
+*.ioc text
+*.uvprojx text
+*.s text
+*.sct text

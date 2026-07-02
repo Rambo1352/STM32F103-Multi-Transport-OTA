@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# Local editor settings
+.vscode/
+.agents/
+
+# Nested or accidental local repositories
+**/.git/
+
+# Keil MDK generated files
+*.axf
+*.bin
+*.hex
+*.map
+*.lst
+*.o
+*.d
+*.crf
+*.dep
+*.lnp
+*.htm
+*.build_log.htm
+*.uvguix.*
+*.uvoptx
+
+# Keil generated folders / debug artifacts
+DebugConfig/
+Objects/
+Listings/
+
+# OS files
+Thumbs.db
+.DS_Store
